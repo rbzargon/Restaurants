@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TownTour</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_data">No data</string>
+    <string name="picture">picture</string>
+    <string name="venue">Venue</string>
+    <string name="sample_address">123 Main St\n San Antonio, TX\n 07345</string>
+    <string name="detail_img_desc">Venue image</string>
+    <string name="restaurant_one">Burger Joint</string>
+    <string name="restaurant_two">Hot Dog Stand</string>
+    <string name="restaurant_three">Pizza Pies</string>
+    <string name="restaurant_four">Mex Kiosco</string>
+    <string name="restaurant_address_one">Greasy Way\nGreasetown, NW 01232</string>
+    <string name="restaurant_address_two">Hot Dog Way\nDogsville, NW 01234</string>
+    <string name="restaurant_address_three">Stuffed Crust Dr\nPepperoni, NW 01234</string>
+    <string name="restaurant_address_four">Tamale St\nDelicioso, NW 01234</string>
+    <string name="venue_image">Venue image</string>
+    <string name="burgers">burgers</string>
+    <string name="pizza">pizza</string>
+    <string name="hotdogs">Hot Dogs</string>
+    <string name="mexican">Mexican</string>
+</resources>
